@@ -1,0 +1,13 @@
+li {
+    color:blue;
+}
+details {
+    color:blueviolet;
+}
+li {
+    font-style: italic;
+}
+table {
+    display: flex;
+    justify-content: center;
+}

@@ -5,6 +5,33 @@ h2 {
      color:blue;
     }
 
-    .rouge{
+    .rouge {
         color:black;
     }
+
+    .jaune {
+        color:yellow;
+    }
+    body{
+        background-color: rgb(206, 184, 184);
+        background-image: url("");
+        background-size: cover;
+    }
+    .orange {
+        color: orange;
+    }
+    .verte {
+color: green;
+    }
+    .bleu {
+        color:blue
+    }
+    .marron {
+        color:maroon
+    }
+    .noires {
+        color:black
+    }
+    
+        
+        
