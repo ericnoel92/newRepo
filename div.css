@@ -1,0 +1,16 @@
+.blue{
+    color: blue;
+    text-align: center;
+}
+div{
+    border: 2px solid red;
+    width: 600px;
+    margin: auto;
+}
+div{
+    color: blue;
+    text-align: center;
+}
+#teste{
+    font-size: 20px;
+}
