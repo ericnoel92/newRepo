@@ -1,0 +1,38 @@
+.ville{
+    background-color: blue;
+    color: black;
+    border:solid black 20px;
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+h2{
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: right;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    background-color: blueviolet;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
