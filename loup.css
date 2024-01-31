@@ -1,0 +1,11 @@
+.loup-container{
+    position: relative;
+    width: 30%;
+    height: 50vh;
+    background: url('loup.jpg');
+    background-size: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
