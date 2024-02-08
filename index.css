@@ -1,0 +1,22 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    border-style: double solid;
+}
+
+body{
+    background-image: url("paysage.png");
+    background-repeat:repeat-x;
+
+}
+div {
+    color: rgb(142, 18, 18);
+    font-style: oblique;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: blue;
+font-style: italic;
+}
