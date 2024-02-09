@@ -8,6 +8,7 @@ h1{
 body{
     background-image: url("paysage.png");
     background-repeat:repeat-x;
+    opacity: 0,20;
 
 }
 div {
@@ -17,6 +18,12 @@ div {
 p{
     display: flex;
     justify-content: center;
-    color: blue;
+    background-color: gray;
 font-style: italic;
+opacity: 50;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: black;
 }
