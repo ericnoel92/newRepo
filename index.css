@@ -1,28 +1,31 @@
-h1{
+h1 {
     display: flex;
     justify-content: center;
     color: blue;
     border-style: double solid;
 }
 
-body{
+body {
     background-image: url("paysage.png");
-    background-repeat:repeat-x;
-    opacity: 0,20;
+    background-repeat: repeat-x;
+    opacity: 0, 20;
 
 }
+
 div {
     color: rgb(142, 18, 18);
     font-style: oblique;
 }
-p{
+
+p {
     display: flex;
     justify-content: center;
     background-color: gray;
-font-style: italic;
-opacity: 50;
+    font-style: italic;
+    opacity: 50;
 }
-h2{
+
+h2 {
     display: flex;
     justify-content: center;
     color: black;
