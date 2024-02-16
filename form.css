@@ -1,0 +1,6 @@
+input{
+border: solid blue;
+font-style: italic;
+display: flex;
+justify-content: center;
+}
