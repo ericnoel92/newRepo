@@ -4,3 +4,12 @@ h1{
     justify-content: center;
     border-style: solid;
 }
+button{
+    border-style: solid;
+    color: blue;
+}
+video {
+    width: 100%;
+    max-width: 640px;
+    height: auto;
+}
