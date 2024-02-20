@@ -28,3 +28,10 @@ ul{
 body{
     background-image: url(box.pnj.jpg);
 }
+
+footer {
+    position: fixed;
+    bottom: 0px; 
+}
+
+
