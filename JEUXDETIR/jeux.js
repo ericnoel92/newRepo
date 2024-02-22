@@ -50,7 +50,7 @@ btn.onclick = function () {
         // Fin du jeu quand le temps est écoulé
         if (time === 0) {
             clearInterval(interval);
-            container.innerHTML = "Le jeu est terminé";
+            container.innerHTML = "Le jeu est terminé a bientot pour une nouvelle partie";
             console.log("Le jeu est terminé. Score final : " + score);
         }
 

@@ -26,7 +26,7 @@ padding: 20px;
 display: flex;
 align-items: center;
 justify-content: center;
-background-color: #fff;
+background-color: white;
 box-shadow: 0 0 5px rgba(0, 0, 0, 0.009); /* Ajout du point-virgule à la fin */
 border-radius: 6px;
 overflow: hidden;
@@ -43,7 +43,7 @@ padding: 10px 20px;
 margin-bottom: 20px;
 background-color: blue;
 border: 0;
-color: #fff;
+color: black;
 border-radius: 6px;
 cursor: pointer;
 }
