@@ -12,7 +12,7 @@ if (!container || !btn || !scoreContainer || !timeContainer) {
 
 btn.onclick = function () {
     let score = 0;
-    let time = 20;
+    let time = 40;
 
     container.innerHTML = "";
 
