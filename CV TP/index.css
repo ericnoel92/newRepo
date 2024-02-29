@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+h1,h6,h7,h4,h9{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+}
+
+p{
+display: flex;
+justify-content: center;
+}
