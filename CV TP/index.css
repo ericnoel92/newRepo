@@ -1,6 +1,9 @@
-body{
-    background-color: blue;
+body {
+    background-image: url('cv.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
+
 h1,h6,h7,h4,h9{
     display: flex;
     justify-content: center;
@@ -10,4 +13,8 @@ h1,h6,h7,h4,h9{
 p{
 display: flex;
 justify-content: center;
+color: blue;
+}
+.changement-couleur:hover {
+    color: red; 
 }
