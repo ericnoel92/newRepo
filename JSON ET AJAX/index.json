@@ -1,0 +1,33 @@
+{
+    "title": "tutoriel json",
+    "contenu": "...",
+    "author": {
+        "firstname": "eric",
+        "lastname": "noel",
+        "birthday": "1995"
+    },
+    "comments":[
+        {
+            "username": "eric",
+            "content": "super tutoriel",
+            "replies": []
+        },
+        {
+            "username":"eric",
+            "content": "j'aime bien le contenue",
+            "replies":[
+                {
+                    "username":"eric",
+                    "content":"j'aime la vidéo",
+                    "replies":[
+                        {
+                            "username":"eric",
+                            "content":"...",
+                            "replies":[]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
