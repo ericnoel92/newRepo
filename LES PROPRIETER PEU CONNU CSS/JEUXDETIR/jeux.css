@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', 'sans-serif';
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-position: center;
+    background-position: cover;
+}
+.game_infos {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.container{
+    height: 400px;
+width: 500px;
+border: 1px solid #999;
+cursor:crosshair;
+position: relative;
+padding: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: white;
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.009); /* Ajout du point-virgule à la fin */
+border-radius: 6px;
+overflow: hidden;
+}
+#target {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    transition: 0.30;
+    animation: animateTarget 20s infinite;
+}
+button {
+padding: 10px 20px;
+margin-bottom: 20px;
+background-color: blue;
+border: 0;
+color: black;
+border-radius: 6px;
+cursor: pointer;
+}
+@keyframes animateTarget {
+    to{
+        transform: translateY(-200px) rotate(90deg);
+    }
+}
+body{
+    background-image: url('fond.png');
+}
+
