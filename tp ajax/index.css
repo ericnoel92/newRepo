@@ -24,3 +24,9 @@ button {
     margin-top: 20px;
     font-weight: bold;
 }
+body {
+    background-image: url('pi.png');
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
