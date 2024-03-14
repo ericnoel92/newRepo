@@ -75,5 +75,10 @@ h1{
     max-width: 60%;
     height: auto; 
 }
+p{
+    display: flex;
+    justify-content: center;
+}
+
 
 
